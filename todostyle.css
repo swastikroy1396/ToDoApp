@@ -19,7 +19,7 @@
     border-radius: 10px;
 }
 .todo-app h2{
-    color: rgb(2, 2, 41);
+    color: red;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
